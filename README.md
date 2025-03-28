@@ -8,6 +8,7 @@
 - i like rice(ing) (DO NOT INSERT CHINESE MUSIC)
 
 -- connections --
+
 website: [crovoic.net](https://crovoic.net) 
 
 twitter: [kuro_mitama](https://x.com/Kuro_Mitama) 

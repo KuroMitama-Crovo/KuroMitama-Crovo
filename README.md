@@ -5,7 +5,7 @@
 
 - arch user
 
-- i like rice(ing) (DO NOT INSERT CHINESE MUSIC)
+- i like rice(ing) (I GET IT, IM ASIAN BUT PLS DO NOT INSERT CHINESE BG MUSIC)
 
 -- connections --
 

@@ -13,6 +13,6 @@
 
 website: [crovoic.net](https://crovoic.net) 
 
-twitter: [kuro_mitama](https://x.com/Kuro_Mitama) 
+twitter: [@kuro_mitama](https://x.com/Kuro_Mitama) 
 
-bsky: [crovoic.net](https://bsky.app/profile/crovoic.net)
+bsky: [@crovoic.net](https://bsky.app/profile/crovoic.net)

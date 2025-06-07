@@ -10,6 +10,7 @@
 - i can speak english (self-explainatory), vietnamese and japanese (prof. yapper)
 
 -- connections --
+
 links: [domain](https://crovoic.net) [neocities](https://crovoic.neocities.org/)
 
 twitter: [@kuro_mitama](https://x.com/Kuro_Mitama) 
